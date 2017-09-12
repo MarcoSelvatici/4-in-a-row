@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1501843083 source:c:\users\marco\desktop\four-in-a-row\main.cpp
+	<iostream>
+	<windows.h>
+	"Game.h"
+
+1505226070 c:\users\marco\desktop\four-in-a-row\include\game.h
+	"State.h"
+	"Minimax_agent.h"
+	"Player.h"
+	"iostream"
+	"stdlib.h"
+
+1505226292 c:\users\marco\desktop\four-in-a-row\include\state.h
+	"iostream"
+
+1505226221 c:\users\marco\desktop\four-in-a-row\include\minimax_agent.h
+	"State.h"
+	"vector"
+	"iostream"
+	"stdlib.h"
+	"time.h"
+
+1505226293 c:\users\marco\desktop\four-in-a-row\include\player.h
+	"State.h"
+	"iostream"
+
+1505226089 source:c:\users\marco\desktop\four-in-a-row\src\game.cpp
+	"Game.h"
+
+1505227082 source:c:\users\marco\desktop\four-in-a-row\src\minimax_agent.cpp
+	"Minimax_agent.h"
+
+1501843086 source:c:\users\marco\desktop\four-in-a-row\src\player.cpp
+	"Player.h"
+
+1505227320 source:c:\users\marco\desktop\four-in-a-row\src\state.cpp
+	"State.h"
+
